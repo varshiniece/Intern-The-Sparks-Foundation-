@@ -8,3 +8,6 @@ Technical Stack : Sikit Learn, Numpy Array, Pandas, Matplotlib
 TASK2 :- Find Optimum No of clusters for the Iris Dataset.(https://bit.ly/3kXTdox) 
 Technical Stack : Sikit Learn, Numpy Array, Pandas, Matplotlib
 
+TASK3 : EDA on Retail data of SampleSuperstore. 
+Technical Stack : Tableau .
+https://public.tableau.com/app/profile/varshini5484/viz/sample_superstorefinal/Story1
